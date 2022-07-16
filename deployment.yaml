@@ -20,7 +20,7 @@ spec:
         app: flask
     spec:
       containers:
-      - image: kadhemamri/test:1
+      - image: kadhemamri/test:latest
         name: flask
         resources: {}
 status: {}
